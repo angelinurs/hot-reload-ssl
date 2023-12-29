@@ -1,1 +1,2 @@
-# hot-reload-ssl
+- [SSL hot reload in Spring Boot 3.2.0](https://spring.io/blog/2023/11/07/ssl-hot-reload-in-spring-boot-3-2-0/)
+- [7.14.3. Applying SSL Bundles](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.ssl.bundles)

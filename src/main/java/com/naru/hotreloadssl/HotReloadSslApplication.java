@@ -1,0 +1,13 @@
+package com.naru.hotreloadssl;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HotReloadSslApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HotReloadSslApplication.class, args);
+	}
+
+}

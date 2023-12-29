@@ -1,0 +1,11 @@
+server:
+  port: 8443
+  ssl:
+    bundle: "demo"
+  
+spring.ssl.bundle.pem:
+  demo:
+    reload-on-update: true
+    keystore:    
+      certificate: "/home/naru/lab/cloud_lab/conf_server/ssl-keystore/demo.crt"
+      private-key: "/home/naru/lab/cloud_lab/conf_server/ssl-keystore/demo.key"
